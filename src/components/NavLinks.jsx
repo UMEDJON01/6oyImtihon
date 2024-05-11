@@ -18,11 +18,6 @@ const links = [
       dispatch({ type: "newTheme" });
     },
   },
-  {
-    id: 4,
-    text: "Logout",
-    path: "/contact",
-  },
 ];
 
 function NavLinks() {
